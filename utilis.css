@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Lato:ital,wght@1,300&display=swap');
+.btn{
+    padding: 5px 10px;
+    color: white;
+    background: var(--main-bg-color);
+    border-radius: 7px;
+    font-weight: 900px;
+    cursor: pointer;
+    font-family: 'Fira Sans', sans-serif;
+}
+.my-1{
+    margin: 5px 0;
+}
+.my-2{
+    margin: 26px 0;
+}
+.text-center{
+    text-align: center;
+}
